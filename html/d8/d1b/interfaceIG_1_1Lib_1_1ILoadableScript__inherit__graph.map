@@ -1,0 +1,15 @@
+<map id="IG.Lib.ILoadableScript" name="IG.Lib.ILoadableScript">
+<area shape="rect" id="node1" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="5,279,155,306"/>
+<area shape="rect" id="node2" href="$d1/dca/interfaceIG_1_1Lib_1_1ILoadableScriptC.html" title="Controllable loadable script, provides more control over loading and execution." alt="" coords="211,19,370,46"/>
+<area shape="rect" id="node4" href="$d7/d15/classIG_1_1Lib_1_1LoadableScriptBase.html" title="Base class for classes that can be dynamically loadeded from scripts and run, which provides function..." alt="" coords="203,247,379,274"/>
+<area shape="rect" id="node5" href="$d5/d05/classIG_1_1Lib_1_1LoadableScriptOptBase.html" title="Base class for loadable scripts for optimization problems. AGREEMENTS: The first argument to initiali..." alt="" coords="427,63,624,90"/>
+<area shape="rect" id="node8" href="$dc/d6c/classIG_1_1Script_1_1ScritpRealFunctionExample.html" title="Example script for definition of a new real function class." alt="" coords="679,180,865,221"/>
+<area shape="rect" id="node10" href="$d5/de0/classIG_1_1Script_1_1ScritpScalarFunctionExample.html" title="Example script for definition of a new real function class." alt="" coords="673,332,871,373"/>
+<area shape="rect" id="node11" href="$d4/d2e/classIG_1_1Script_1_1LoadableScriptExample.html" title="Example cls. for testing function of loadable scripts." alt="" coords="444,115,607,156"/>
+<area shape="rect" id="node12" href="$da/d52/classIG_1_1Script_1_1LoadableScriptSpecialFunctionBase.html" title="Base cls. for various special function loadable scripts." alt="" coords="444,311,607,352"/>
+<area shape="rect" id="node13" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="225,478,356,505"/>
+<area shape="rect" id="node3" href="$d7/d31/classIG_1_1Lib_1_1LoadableScriptOptShellBaseControllable.html" title="Controllable version of LoadableScriptOptBase, implements the ILoadableScriptC interface." alt="" coords="689,5,855,47"/>
+<area shape="rect" id="node7" href="$d0/d74/classIG_1_1Lib_1_1LoadableScriptRealFunctionBase.html" title="Base class for loadable scripts that define real functions of one variable." alt="" coords="439,180,611,221"/>
+<area shape="rect" id="node9" href="$d7/dba/classIG_1_1Lib_1_1LoadableScriptScalarFunctionBase.html" title="Base class for loadable scripts that define scalar functions of several variables." alt="" coords="434,245,617,287"/>
+<area shape="rect" id="node6" href="$d2/dae/classIG_1_1Lib_1_1LoadableScriptOptTest_1_1LoadableScriptOptDerived.html" title=" " alt="" coords="672,71,872,112"/>
+</map>

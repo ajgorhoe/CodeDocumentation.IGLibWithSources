@@ -1,0 +1,261 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" title=" " alt="" coords="817,3463,1056,3534"/>
+<area shape="rect" id="node2" href="$d8/d2b/classIG_1_1Lib_1_1CommandThread.html" title="Contains stack frames and other command thread data for a single command thread of a command&#45;line int..." alt="" coords="1143,3224,1341,3280"/>
+<area shape="rect" id="node3" title=" " alt="" coords="585,325,664,352"/>
+<area shape="rect" id="node4" href="$d6/d63/classIG_1_1Num_1_1SampledDataSet_1_1ComparerInputDistance.html" title="Comparer that compares two data elements of type SampledDataElement according to the distance of thei..." alt="" coords="823,242,1051,283"/>
+<area shape="rect" id="node5" href="$d9/dfe/classIG_1_1Num_1_1SampledDataSet_1_1ComparerOutputDistance.html" title="Comparer that compares two data elements of type SampledDataElement according to the distance of thei..." alt="" coords="823,307,1051,349"/>
+<area shape="rect" id="node6" href="$da/dad/classIG_1_1Reflection_1_1DerivedTypesRegistry.html" title=" " alt="" coords="505,3042,744,3083"/>
+<area shape="rect" id="node7" href="$d1/db3/classIG_1_1Reflection_1_1DerivedTypesRgistryBasic.html" title="Registry of types with a common base type, similar to DerivedTypesRegistry&lt;BaseType,..." alt="" coords="847,3042,1026,3083"/>
+<area shape="rect" id="node8" href="$d0/dab/classIG_1_1Num_1_1DistanceComparer.html" title=" " alt="" coords="500,5,749,61"/>
+<area shape="rect" id="node9" href="$d2/daa/classIG_1_1Num_1_1DistanceComparerSampledDataElement.html" title="Distance comparer for point clouds where point type is SampledDataElement." alt="" coords="823,109,1051,150"/>
+<area shape="rect" id="node10" href="$d0/dab/classIG_1_1Num_1_1DistanceComparer.html" title=" " alt="" coords="536,165,713,221"/>
+<area shape="rect" id="node11" href="$d7/d0f/classIG_1_1Num_1_1DistanceComparerVector.html" title=" " alt="" coords="829,191,1044,217"/>
+<area shape="rect" id="node12" href="$d5/d50/interfaceIG_1_1Num_1_1IAffineTransformation.html" title="Affine Transformation." alt="" coords="529,3108,720,3135"/>
+<area shape="rect" id="node13" href="$d6/d8b/classIG_1_1Num_1_1AffineTransformationDiagonal.html" title="Affine transformation with diagonal tansformation matrix." alt="" coords="1149,3610,1335,3651"/>
+<area shape="rect" id="node14" href="$de/d0d/classIG_1_1Num_1_1AffineTransformationSquare.html" title="Invertible Affine transformation with square transformation matrix." alt="" coords="843,3610,1030,3651"/>
+<area shape="rect" id="node15" href="$d5/d59/interfaceIG_1_1Num_1_1IAnalysis.html" title="Interface for direct analysis classes used in optimization problems." alt="" coords="563,2000,686,2027"/>
+<area shape="rect" id="node16" href="$da/dba/classIG_1_1Lib_1_1LoadableScriptOptBase_1_1AnalysisScript.html" title=" " alt="" coords="1159,1963,1325,2005"/>
+<area shape="rect" id="node17" href="$dd/d1e/classIG_1_1Num_1_1AnalysisBase.html" title="Base class for direct analysis classes that define optimization problems. Represent the complete defi..." alt="" coords="861,2000,1012,2027"/>
+<area shape="rect" id="node18" href="$dc/d51/classIG_1_1Num_1_1OptFileAnalysisClient.html" title="File analysis client. Passes direct analysis request to the server and gets analysis results from it." alt="" coords="1145,2051,1339,2077"/>
+<area shape="rect" id="node19" title=" " alt="" coords="305,3311,387,3337"/>
+<area shape="rect" id="node20" href="$da/d89/classIG_1_1Num_1_1Matrix2d.html" title="Matrix in a 2 dimensional space." alt="" coords="565,3260,685,3287"/>
+<area shape="rect" id="node21" href="$d5/d83/classIG_1_1Num_1_1RealFunction.html" title="Represents a real function of a real variabe." alt="" coords="551,1452,698,1479"/>
+<area shape="rect" id="node40" href="$d7/de0/classIG_1_1Num_1_1Vector.html" title="Real vector class." alt="" coords="571,3361,679,3388"/>
+<area shape="rect" id="node41" href="$dc/de8/classIG_1_1Num_1_1Vector2d.html" title="Vector or point in a 2 dimensional space." alt="" coords="563,3412,686,3439"/>
+<area shape="rect" id="node42" href="$da/d5b/classIG_1_1Num_1_1Vector3d.html" title="Vector or point in a 3 dimensional space." alt="" coords="563,3463,686,3489"/>
+<area shape="rect" id="node22" href="$db/d84/classIG_1_1Lib_1_1LoadableRealFunctionBase.html" title="A RealFunction class used as base class for dynamically loaded functions. Bunctions loaded from scrip..." alt="" coords="827,1747,1046,1773"/>
+<area shape="rect" id="node24" href="$d2/d7a/classIG_1_1Num_1_1ComposedFunction.html" title="Composition of real functions." alt="" coords="845,1645,1028,1672"/>
+<area shape="rect" id="node25" href="$d6/d88/classIG_1_1Num_1_1Func_1_1Constant.html" title="A RealFunction class representing a constant function." alt="" coords="859,1696,1014,1723"/>
+<area shape="rect" id="node26" href="$dc/dbf/classIG_1_1Num_1_1Func_1_1Cubic.html" title="Cubic function, f(x) = a3*x*x*x + a2*x*x + a1*x + a0. Specific properties: Zero &#45; returns a zero...." alt="" coords="869,1797,1005,1824"/>
+<area shape="rect" id="node27" href="$da/da5/classIG_1_1Num_1_1Func_1_1Exp.html" title="A RealFunction class representing exponential function." alt="" coords="873,1021,1000,1048"/>
+<area shape="rect" id="node28" href="$d4/d1e/classIG_1_1Num_1_1Func_1_1Identity.html" title="A RealFunction class representing identity (or linear) function." alt="" coords="864,1072,1009,1099"/>
+<area shape="rect" id="node29" href="$d8/ddb/classIG_1_1Num_1_1Func_1_1Linear.html" title="Linear function, f(x) = a1*x + a0. Specific properties: Zero &#45; returns a zero. HasZero &#45; either the f..." alt="" coords="867,1123,1006,1149"/>
+<area shape="rect" id="node30" href="$dd/dd0/classIG_1_1Num_1_1Func_1_1PenaltyPower.html" title="Penalty function consisting of sticked together constant zero&#45;valued function and a power function wi..." alt="" coords="845,971,1028,997"/>
+<area shape="rect" id="node31" href="$d7/d61/classIG_1_1Num_1_1Func_1_1Quadratic.html" title="Quadratic function, f(x) = a2*x*x + a1*x + a0. Specific properties: Zero &#45; returns a zero...." alt="" coords="857,1173,1016,1200"/>
+<area shape="rect" id="node32" href="$d0/dc0/classIG_1_1Num_1_1Func_1_1ReciprocalPower.html" title="A RealFunction class representing a reciprocal power function." alt="" coords="837,1224,1037,1251"/>
+<area shape="rect" id="node33" href="$d9/d61/classIG_1_1Num_1_1Func_1_1WeightGauss.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="845,1275,1028,1301"/>
+<area shape="rect" id="node34" href="$d5/d42/classIG_1_1Num_1_1Func_1_1WeightPol3.html" title="A RealFunction class representing bell like polynomial weighting function with finite support...." alt="" coords="851,1325,1022,1352"/>
+<area shape="rect" id="node35" href="$da/d50/classIG_1_1Num_1_1Func_1_1WeightPol4.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="851,1376,1022,1403"/>
+<area shape="rect" id="node36" href="$d1/d27/classIG_1_1Num_1_1Func_1_1WeightPol5.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="851,1427,1022,1453"/>
+<area shape="rect" id="node37" href="$df/d14/classIG_1_1Num_1_1Func_1_1WeightPol7.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="851,1477,1022,1504"/>
+<area shape="rect" id="node38" href="$d4/d40/classIG_1_1Num_1_1Func_1_1WeightReciprocalPower.html" title="A RealFunction class representing bell like polynomial weighting function with finite support,..." alt="" coords="834,1529,1039,1570"/>
+<area shape="rect" id="node39" href="$d6/d03/classIG_1_1Num_1_1FunctionPolynomial.html" title="Polynomial real functions of one variable." alt="" coords="845,1595,1029,1621"/>
+<area shape="rect" id="node23" href="$d5/d44/classIG_1_1Script_1_1ScritpRealFunctionExample_1_1Container_1_1Function.html" title=" " alt="" coords="1149,1739,1335,1781"/>
+<area shape="rect" id="node43" href="$de/dfd/interfaceIG_1_1Lib_1_1ICommandLineApplicationInterpreter.html" title="Interface for simple command&#45;line applicatino interpreters." alt="" coords="519,8370,730,8411"/>
+<area shape="rect" id="node44" href="$de/dcf/classIG_1_1Lib_1_1CommandLineApplicationInterpreter.html" title="Simple command&#45;line application interpreters, holds a set of commands that can be executed by name...." alt="" coords="833,8341,1040,8382"/>
+<area shape="rect" id="node45" href="$d2/d86/classIG_1_1Lib_1_1CommandLineApplicationScriptInterpreter.html" title="Command&#45;line interpreters adapted for executing script commands." alt="" coords="1139,8281,1345,8322"/>
+<area shape="rect" id="node46" title=" " alt="" coords="577,869,672,896"/>
+<area shape="rect" id="node47" href="$d1/d50/classIG_1_1Lib_1_1CommandUseReference.html" title="A reference of command usage, contains ID of the interpreter where a command is registered,..." alt="" coords="837,920,1037,947"/>
+<area shape="rect" id="node48" href="$de/da3/structIG_1_1Num_1_1Counter.html" title="Represents a real number." alt="" coords="879,819,994,845"/>
+<area shape="rect" id="node49" href="$d3/d9a/structIG_1_1Num_1_1Scalar.html" title="Represents a real number." alt="" coords="883,869,990,896"/>
+<area shape="rect" id="node50" title=" " alt="" coords="584,497,665,524"/>
+<area shape="rect" id="node51" href="$d3/d84/classIG_1_1Num_1_1AnalysisComparer.html" title="Compares two sets of analysis results in various different ways." alt="" coords="849,439,1025,465"/>
+<area shape="rect" id="node52" href="$d0/dab/classIG_1_1Num_1_1DistanceComparer.html" title="Class that is used to calculate and compare distances between point containers." alt="" coords="1153,753,1331,809"/>
+<area shape="rect" id="node53" href="$d6/d94/classIG_1_1Num_1_1DistanceComparer_1_1StoredDistanceComparerClass.html" title="Compares two point containers according to their StoredDistance property." alt="" coords="797,556,1076,612"/>
+<area shape="rect" id="node54" href="$d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html" title="Interface used for distance comparers in point clouds." alt="" coords="824,490,1049,531"/>
+<area shape="rect" id="node55" href="$df/d64/classIG_1_1Num_1_1NeuralTrainingParameters_1_1ComparerBase.html" title="Base comparer class (implementation of the IComparer&lt;NeuralTrainingParameters&gt; interface) for conmpar..." alt="" coords="825,637,1048,678"/>
+<area shape="rect" id="node56" href="$db/dda/classIG_1_1Num_1_1NeuralTrainingParameters_1_1ComparerErrorTrainingVector.html" title=" " alt="" coords="825,702,1048,743"/>
+<area shape="rect" id="node57" href="$d6/db9/classIG_1_1Num_1_1NeuralTrainingParameters_1_1ComparerTrainingTime.html" title=" " alt="" coords="825,373,1048,414"/>
+<area shape="rect" id="node58" title=" " alt="" coords="580,8992,669,9019"/>
+<area shape="rect" id="node59" href="$d3/d58/classIG_1_1Lib_1_1CommandLine.html" title="Represents a single command&#45;line that can be executed. $A Igor Feb09;" alt="" coords="865,8863,1008,8889"/>
+<area shape="rect" id="node60" href="$d7/db9/classIG_1_1Lib_1_1CommandLineInterpreter.html" title="Base class for all command line interpreters." alt="" coords="836,9163,1037,9189"/>
+<area shape="rect" id="node61" href="$d7/d9f/classIG_1_1Lib_1_1HtmlWriter.html" title="Generates and composes a HTML document." alt="" coords="875,8980,998,9007"/>
+<area shape="rect" id="node62" href="$db/db1/interfaceIG_1_1Lib_1_1IReporter.html" title="Interface from which majority of reporters inherit. Includes generic reporting functionality plus tra..." alt="" coords="881,9305,993,9332"/>
+<area shape="rect" id="node67" href="$d1/da2/classIG_1_1SandboxTests_1_1XUnitLogger_1_1NoopDisposable.html" title=" " alt="" coords="837,9031,1036,9073"/>
+<area shape="rect" id="node68" href="$d9/d7f/classIGLib_1_1Tests_1_1Base_1_1XUnitLogger_1_1NoopDisposable.html" title=" " alt="" coords="837,9097,1036,9138"/>
+<area shape="rect" id="node63" href="$dd/d3c/interfaceIG_1_1Lib_1_1IReporterConsole.html" title=" " alt="" coords="1163,9280,1321,9307"/>
+<area shape="rect" id="node66" href="$d4/de2/classIG_1_1Lib_1_1ReporterBase.html" title="Base IGlib class for reporting, tracing and logging; provides a global reporter and a basis for creat..." alt="" coords="1173,9331,1311,9357"/>
+<area shape="rect" id="node64" href="$de/df1/classIG_1_1Lib_1_1ReporterConsole.html" title=" " alt="" coords="1694,9305,1850,9332"/>
+<area shape="rect" id="node65" href="$da/df9/classIG_1_1Lib_1_1ReporterConsole__Base.html" title="Base class for reporter classes that contain either reporting via system console, reporting via messa..." alt="" coords="1413,9331,1606,9357"/>
+<area shape="rect" id="node69" href="$d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html" title=" " alt="" coords="500,85,749,141"/>
+<area shape="rect" id="node70" href="$d9/d64/interfaceIG_1_1Num_1_1IDistanceComparer.html" title=" " alt="" coords="535,245,715,301"/>
+<area shape="rect" id="node71" title=" " alt="" coords="577,819,672,845"/>
+<area shape="rect" id="node72" href="$dc/d79/interfaceIG_1_1Lib_1_1IIdentifiable.html" title="Classes whose instances have unique integer IDs." alt="" coords="563,2583,687,2609"/>
+<area shape="rect" id="node73" href="$d1/d25/classIG_1_1Lib_1_1CommandLineJobContainer.html" title="Carries command execution data, results, and other data such as identification number,..." alt="" coords="827,2889,1046,2916"/>
+<area shape="rect" id="node74" href="$dd/dd7/classIG_1_1Lib_1_1CommandThreadBase.html" title="Base class for classes of type CommandThread&lt;InterpreterType, FrameType, ThreadType&gt;...." alt="" coords="843,2991,1031,3017"/>
+<area shape="rect" id="node75" href="$dd/dec/classIG_1_1Lib_1_1ExpressionEvaluatorCompiled.html" title="Base class for expression evaluators that utilize the functionality of CodeDomProvider class." alt="" coords="847,2605,1026,2646"/>
+<area shape="rect" id="node76" href="$da/d42/classIG_1_1Lib_1_1ExpressionEvaluatorJs.html" title="JavaScript Evaluator with command&#45;line interpreter." alt="" coords="1147,2503,1337,2529"/>
+<area shape="rect" id="node77" href="$d0/d06/classIG_1_1Lib_1_1ExpressionEvaluatorJint.html" title="JavaScript Evaluator with command&#45;line interpreter, based on Jint." alt="" coords="1410,2476,1609,2503"/>
+<area shape="rect" id="node78" href="$d4/d93/classIG_1_1Lib_1_1IdProxy.html" title="Proxy class that stores the object&#39;s unique ID (generated by a static instance of the IdGenerator cla..." alt="" coords="885,2335,989,2361"/>
+<area shape="rect" id="node79" href="$d5/d7a/interfaceIG_1_1Lib_1_1IRegisterable.html" title="Objects of this type have a unique ID (unique for all objects of a given type) and can be registered ..." alt="" coords="853,2152,1020,2179"/>
+<area shape="rect" id="node80" href="$dd/dda/classIG_1_1Lib_1_1RegisterableExamples_1_1ExampleIIdentifiable.html" title="Example implementation of IIdentifiable interface." alt="" coords="839,2269,1034,2310"/>
+<area shape="rect" id="node81" href="$de/de7/classIG_1_1Lib_1_1StopWatch1.html" title="Timer for measuring execution times and other intervals of time elapsed between successive events...." alt="" coords="871,2940,1003,2967"/>
+<area shape="rect" id="node82" href="$d3/dbb/classIG_1_1Num_1_1ParallelJobContainerBase.html" title="Contains input data and results of a parallel job to be executed, oropertied indicating the state of ..." alt="" coords="827,2788,1046,2815"/>
+<area shape="rect" id="node83" href="$d3/d64/classIG_1_1Num_1_1ParallelJobContainerGen.html" title="General purpose parallel job container that contains methods for running the job in on the same machi..." alt="" coords="1143,2789,1341,2830"/>
+<area shape="rect" id="node84" href="$d1/d6b/classIG_1_1Num_1_1ParallelJobDispatcherBase.html" title="Parallel job dispatcher. Accepts job requests and dispatches jobs to parallel job servers when availa..." alt="" coords="839,2203,1034,2245"/>
+<area shape="rect" id="node85" href="$dc/da7/classIG_1_1Num_1_1ParallelJobDispatcherGen.html" title="Parallel job dispatcher for job containers that inherit from ParallelJobContainerGen&lt;InputType,..." alt="" coords="1145,2196,1339,2252"/>
+<area shape="rect" id="node86" href="$d9/d79/classIG_1_1Num_1_1ParallelJobServerBase.html" title="Parallel job server. Waits for job requests and executes them in a parallel thread." alt="" coords="847,2722,1026,2763"/>
+<area shape="rect" id="node87" href="$d5/d32/classIG_1_1Num_1_1ParallelJobServerGen.html" title="Parallel job server for job containers that inherit from ParallelJobContainerGen&lt;IT,..." alt="" coords="1147,2708,1337,2764"/>
+<area shape="rect" id="node88" href="$d4/d11/interfaceIG_1_1Lib_1_1IInterpreter.html" title=" " alt="" coords="521,9175,729,9231"/>
+<area shape="rect" id="node89" href="$da/d2c/interfaceIG_1_1Lib_1_1IInterpreterCommand.html" title=" " alt="" coords="535,8941,715,8968"/>
+<area shape="rect" id="node90" href="$d8/d24/classIG_1_1Lib_1_1InterpreterCommandDataBase.html" title=" " alt="" coords="848,8914,1025,8955"/>
+<area shape="rect" id="node91" href="$d2/dc2/interfaceIG_1_1Lib_1_1IInterpreterCommandData.html" title=" " alt="" coords="243,8865,449,8892"/>
+<area shape="rect" id="node92" href="$d1/d62/classIG_1_1Lib_1_1CommandLineData.html" title="Holds execution data (command arguments ns result) for interpreter commands of the CommandLine type." alt="" coords="539,8891,710,8917"/>
+<area shape="rect" id="node93" href="$d0/de6/classIG_1_1Lib_1_1InterpreterCommandBase.html" title=" " alt="" coords="521,8840,728,8867"/>
+<area shape="rect" id="node94" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="550,8647,699,8673"/>
+<area shape="rect" id="node95" href="$d1/dca/interfaceIG_1_1Lib_1_1ILoadableScriptC.html" title="Controllable loadable script, provides more control over loading and execution." alt="" coords="1163,8660,1321,8687"/>
+<area shape="rect" id="node97" href="$d7/d15/classIG_1_1Lib_1_1LoadableScriptBase.html" title="Base class for classes that can be dynamically loadeded from scripts and run, which provides function..." alt="" coords="849,8559,1025,8585"/>
+<area shape="rect" id="node98" href="$d5/d05/classIG_1_1Lib_1_1LoadableScriptOptBase.html" title="Base class for loadable scripts for optimization problems. AGREEMENTS: The first argument to initiali..." alt="" coords="1143,8412,1341,8439"/>
+<area shape="rect" id="node101" href="$dc/d6c/classIG_1_1Script_1_1ScritpRealFunctionExample.html" title="Example script for definition of a new real function class." alt="" coords="1416,8726,1603,8767"/>
+<area shape="rect" id="node103" href="$d5/de0/classIG_1_1Script_1_1ScritpScalarFunctionExample.html" title="Example script for definition of a new real function class." alt="" coords="1410,8551,1609,8593"/>
+<area shape="rect" id="node104" href="$d4/d2e/classIG_1_1Script_1_1LoadableScriptExample.html" title="Example cls. for testing function of loadable scripts." alt="" coords="1161,8346,1323,8387"/>
+<area shape="rect" id="node105" href="$da/d52/classIG_1_1Script_1_1LoadableScriptSpecialFunctionBase.html" title="Base cls. for various special function loadable scripts." alt="" coords="1161,8594,1323,8635"/>
+<area shape="rect" id="node106" href="$d5/d63/classIG_1_1Script_1_1AppBase.html" title="Base cls. for application scripts that can also be used on its own." alt="" coords="871,8812,1002,8839"/>
+<area shape="rect" id="node96" href="$d7/d31/classIG_1_1Lib_1_1LoadableScriptOptShellBaseControllable.html" title="Controllable version of LoadableScriptOptBase, implements the ILoadableScriptC interface." alt="" coords="1426,8431,1593,8473"/>
+<area shape="rect" id="node100" href="$d0/d74/classIG_1_1Lib_1_1LoadableScriptRealFunctionBase.html" title="Base class for loadable scripts that define real functions of one variable." alt="" coords="1156,8529,1328,8570"/>
+<area shape="rect" id="node102" href="$d7/dba/classIG_1_1Lib_1_1LoadableScriptScalarFunctionBase.html" title="Base class for loadable scripts that define scalar functions of several variables." alt="" coords="1151,8463,1333,8505"/>
+<area shape="rect" id="node99" href="$d2/dae/classIG_1_1Lib_1_1LoadableScriptOptTest_1_1LoadableScriptOptDerived.html" title=" " alt="" coords="1409,8366,1609,8407"/>
+<area shape="rect" id="node107" href="$d3/db6/interfaceIG_1_1Lib_1_1ILockable.html" title="Lockable object, has a Lock property that returns object on which lock must be performed in order to ..." alt="" coords="567,5507,682,5533"/>
+<area shape="rect" id="node108" href="$d1/d77/classIG_1_1Lib_1_1ApplicationBase.html" title="Base class for all application classes. Provides some basic functionality such as keeping information..." alt="" coords="1165,6004,1319,6031"/>
+<area shape="rect" id="node111" href="$d5/d2f/classIG_1_1Lib_1_1Copy_1_1ClienServerStreamBase.html" title="Base class for client and server classes with stream&#45;based communication." alt="" coords="821,6257,1052,6284"/>
+<area shape="rect" id="node112" href="$db/d41/classIG_1_1Lib_1_1Copy_1_1ClientServerStreamBase2.html" title="Base class for named pipe servers and clients, contains common stuff for both." alt="" coords="1161,6225,1323,6266"/>
+<area shape="rect" id="node113" href="$d2/d6f/classIG_1_1Lib_1_1Copy_1_1ClientStreamBase.html" title="Client to the pipe server (classes derived from ClientServerStreamBase2)." alt="" coords="1410,6156,1609,6183"/>
+<area shape="rect" id="node114" href="$d7/d21/classIG_1_1Lib_1_1Copy_1_1NamedPipeClientBase.html" title="Client to the pipe server (classes derived from ClientServerStreamBase2)." alt="" coords="1660,6131,1884,6157"/>
+<area shape="rect" id="node115" href="$de/dc2/classIG_1_1Lib_1_1Copy_1_1ServerStreamBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1408,6308,1611,6335"/>
+<area shape="rect" id="node116" href="$dc/dc6/classIG_1_1Lib_1_1Copy_1_1NamedPipeServerBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1659,6345,1885,6372"/>
+<area shape="rect" id="node117" href="$d9/d82/classIG_1_1Lib_1_1CsvData.html" title="Memory representation of CSV data." alt="" coords="1188,3929,1296,3956"/>
+<area shape="rect" id="node118" href="$d1/d14/classIG_1_1Lib_1_1IdGenerator.html" title="Utility class for generaton of unique IDs for objects of specific type. IDs generated by calls of Get..." alt="" coords="873,4081,1000,4108"/>
+<area shape="rect" id="node119" href="$df/d82/classIG_1_1Lib_1_1ObjectRegister.html" title="Provides implementation of register of objects of the specified type. Also generates unique IDs for o..." alt="" coords="1153,4056,1331,4083"/>
+<area shape="rect" id="node120" href="$d8/dff/interfaceIG_1_1Lib_1_1ILoadableScriptInterpreter.html" title="Interface for interpreters that can install commands from loadable scripts and run them." alt="" coords="833,4132,1040,4159"/>
+<area shape="rect" id="node122" href="$d1/dec/classIG_1_1Lib_1_1InterfaceInterpreterBase.html" title="Base class for interfaces with interpreters." alt="" coords="838,4233,1035,4260"/>
+<area shape="rect" id="node123" href="$dc/dd2/classIG_1_1Lib_1_1InterfaceInverse.html" title="Interface for Inverse Interpreter." alt="" coords="1167,4208,1317,4235"/>
+<area shape="rect" id="node124" href="$da/d66/classIG_1_1Lib_1_1IpcStreamClientBase.html" title="Client to the pipe server (classes derived from IpcStreamClientServerBase2)." alt="" coords="1418,6460,1601,6487"/>
+<area shape="rect" id="node125" href="$d3/d53/classIG_1_1Lib_1_1NamedPipeClientBase.html" title="Client to the pipe server (classes derived from IpcStreamClientServerBase2)." alt="" coords="1677,6421,1867,6448"/>
+<area shape="rect" id="node127" href="$df/d28/classIG_1_1Lib_1_1PipeClientBase.html" title="Client to the pipe server (classes derived from IpcStreamClientServerBase2)." alt="" coords="1697,6492,1847,6519"/>
+<area shape="rect" id="node128" href="$d5/dd9/classIG_1_1Lib_1_1IpcStreamClientServerBase.html" title="Base class for client and server classes with stream&#45;based communication." alt="" coords="827,6561,1046,6588"/>
+<area shape="rect" id="node129" href="$da/d2c/classIG_1_1Lib_1_1IpcStreamClientServerBase2.html" title="Base class for named pipe servers and clients, contains common stuff for both." alt="" coords="1148,6579,1336,6621"/>
+<area shape="rect" id="node130" href="$d1/d4d/classIG_1_1Lib_1_1IpcStreamServerBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1417,6713,1602,6740"/>
+<area shape="rect" id="node131" href="$d3/d6a/classIG_1_1Lib_1_1NamedPipeServerBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1675,6688,1869,6715"/>
+<area shape="rect" id="node133" href="$d9/db5/classIG_1_1Lib_1_1PipeServerBase.html" title="Server that creates a named pipe, listens on its input stream, and sends responses to the client." alt="" coords="1696,6752,1848,6779"/>
+<area shape="rect" id="node134" href="$de/d1e/interfaceIG_1_1Lib_1_1IWaitCondition.html" title="Interface for classes that implement blocking until a specified condition is met." alt="" coords="865,4487,1009,4513"/>
+<area shape="rect" id="node135" href="$d2/d48/interfaceIG_1_1Lib_1_1IWaitFileEvent.html" title="Interface for classes that provide waiting for specific file events (such as ceration or deletion of ..." alt="" coords="1171,4639,1313,4665"/>
+<area shape="rect" id="node136" href="$d5/d42/classIG_1_1Lib_1_1WaitFileEventBase.html" title="Base class for classes that provide blocking until a file or directory is created/removed." alt="" coords="1424,4533,1595,4560"/>
+<area shape="rect" id="node142" href="$dd/d05/classIG_1_1Lib_1_1WaitFileEventBaseByProxy.html" title="Base class for classes that provide blocking until a file or directory is created/removed...." alt="" coords="1687,4745,1857,4786"/>
+<area shape="rect" id="node147" href="$df/d44/classIG_1_1Lib_1_1WaitFileEventBaseByProxyLatence.html" title="Base class for classes that provide blocking until a file or directory is created/removed...." alt="" coords="1424,4635,1595,4677"/>
+<area shape="rect" id="node153" href="$da/d67/classIG_1_1Lib_1_1WaitCondition.html" title="Provides a framework for blocking execution until the specified condition becomes satisfied...." alt="" coords="1439,4428,1580,4455"/>
+<area shape="rect" id="node154" href="$df/dea/classIG_1_1Lib_1_1WaitConditionBase.html" title="Base class for objects that perform waiting until a condition is fulfilled." alt="" coords="1157,4537,1327,4564"/>
+<area shape="rect" id="node155" href="$db/dc7/classIG_1_1Lib_1_1Module.html" title="General module (or library) management class, a base class for specific module classes...." alt="" coords="885,6055,988,6081"/>
+<area shape="rect" id="node157" href="$d7/d24/classIG_1_1Lib_1_1ObjectStore.html" title="Object store. Objects of the specified type can be stored here for later reuse (efficiency improvemen..." alt="" coords="857,3777,1017,3804"/>
+<area shape="rect" id="node158" href="$d9/dd3/classIG_1_1Num_1_1MatrixStore.html" title="Matrix store." alt="" coords="1158,3739,1326,3765"/>
+<area shape="rect" id="node159" href="$d8/d28/classIG_1_1Num_1_1VectorStore.html" title="Vector store." alt="" coords="1157,3803,1327,3829"/>
+<area shape="rect" id="node160" href="$da/d16/classIG_1_1Lib_1_1RealFunctionLoader.html" title="Dynamically generates IRealFunction classes from user definitions. User can define in string form how..." alt="" coords="849,5313,1024,5340"/>
+<area shape="rect" id="node161" href="$dd/d37/classIG_1_1Lib_1_1ScalarFunctionLoader.html" title="Dynamically generates IScalarFunction classes from user definitions. User can define in string form h..." alt="" coords="843,5364,1030,5391"/>
+<area shape="rect" id="node162" href="$d3/d40/classIG_1_1Lib_1_1ScriptLoaderBase.html" title="Dynamically compiles, loads and instantiates classes of type ILoadableScript from files or from strin..." alt="" coords="855,4335,1018,4361"/>
+<area shape="rect" id="node163" href="$d3/dc9/classIG_1_1Lib_1_1ScriptLoaderIGLib.html" title="Base script loader class for IGLib." alt="" coords="1161,4335,1323,4361"/>
+<area shape="rect" id="node164" href="$d5/d5b/classIG_1_1Lib_1_1ScriptLoaderIGLib_1_1ScriptLoaderTest.html" title="ScriptLoader used for testing." alt="" coords="1426,4302,1593,4343"/>
+<area shape="rect" id="node165" href="$da/d46/classIG_1_1Lib_1_1SerializationDto.html" title="Auxiliary base class for DTOs, contains some static methods. Provided for simplicity,..." alt="" coords="861,7332,1012,7359"/>
+<area shape="rect" id="node166" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title="Generic base class for Data Transfer Objects (DTO). This class is used as template for producing conc..." alt="" coords="1151,6866,1333,6907"/>
+<area shape="rect" id="node168" href="$d0/d56/classIG_1_1Lib_1_1SerializationDtoTypedBase_1_1SerializationDtoTyped.html" title=" " alt="" coords="814,9451,1059,9507"/>
+<area shape="rect" id="node169" href="$dc/d76/classIG_1_1Lib_1_1SettingsReaderBase.html" title=" " alt="" coords="847,8108,1026,8135"/>
+<area shape="rect" id="node171" href="$da/d2a/classIG_1_1Lib_1_1SortedUniqueItemList.html" title="Sorted list of unique items. It is guaranteed that at all times the list of containing items is sorte..." alt="" coords="845,5415,1029,5457"/>
+<area shape="rect" id="node172" href="$d1/d01/classIG_1_1Lib_1_1StringTable.html" title="2D tables of data represented by strings. Maps to CSV files." alt="" coords="874,3980,999,4007"/>
+<area shape="rect" id="node174" href="$d5/de7/classIG_1_1Neural_1_1NeuraApproximationFileManager.html" title="File manager for neural network approximation file client and server." alt="" coords="838,4842,1035,4883"/>
+<area shape="rect" id="node176" href="$df/de1/classIG_1_1Num_1_1CholeskyDecomposition.html" title="Cholesky decomposition of a matrix. Available for symmetric positive definite matrices." alt="" coords="1137,5060,1347,5087"/>
+<area shape="rect" id="node177" href="$dd/d87/classIG_1_1Num_1_1EigenValueDecomposition.html" title="Eigenvalue decomposition of a matrix." alt="" coords="1131,5161,1353,5188"/>
+<area shape="rect" id="node178" href="$d1/ddc/classIG_1_1Num_1_1GridGenerator1d.html" title="Generates 1D grids with equidistant or geometrically grown intervals." alt="" coords="1427,5887,1592,5913"/>
+<area shape="rect" id="node179" href="$d5/de2/classIG_1_1Num_1_1GridGenerator1dBase.html" title="Base class for 1D grid generators." alt="" coords="1145,5887,1339,5913"/>
+<area shape="rect" id="node180" href="$d8/d06/classIG_1_1Num_1_1GridGenerator1dFunc.html" title="Generates 1D grids with equidistant or geometrically grown intervals." alt="" coords="1412,5785,1607,5812"/>
+<area shape="rect" id="node181" href="$d5/d2d/interfaceIG_1_1Num_1_1IGridGenerator1d.html" title="Interface for 1d grid generators." alt="" coords="853,5785,1021,5812"/>
+<area shape="rect" id="node182" href="$da/d85/interfaceIG_1_1Num_1_1ILinearSolver.html" title="Classes that can be used for solution of linear systems of equations." alt="" coords="865,5060,1008,5087"/>
+<area shape="rect" id="node183" href="$db/dc0/classIG_1_1Num_1_1LUDecomposition.html" title="LU decomposition of a matrix." alt="" coords="1156,5111,1328,5137"/>
+<area shape="rect" id="node184" href="$d3/d52/classIG_1_1Num_1_1QRDecomposition.html" title="QR decomposition of a matrix." alt="" coords="1155,4959,1329,4985"/>
+<area shape="rect" id="node185" href="$d5/de5/classIG_1_1Num_1_1SingularValueDecomposition.html" title="Singular value decomposition of a matrix." alt="" coords="1124,5009,1360,5036"/>
+<area shape="rect" id="node186" href="$d7/db4/interfaceIG_1_1Num_1_1INeuralApproximator.html" title="Approximator of response by using neural networks. $A Igor Mar11;" alt="" coords="843,7687,1030,7713"/>
+<area shape="rect" id="node187" href="$dc/db5/classIG_1_1Num_1_1NeuralApproximatorBase.html" title="Base class for neural network approximators." alt="" coords="1135,7661,1349,7688"/>
+<area shape="rect" id="node189" href="$dd/d98/interfaceIG_1_1Num_1_1IOptimizer.html" title="Interface for optimization algorithms. $A Igor Feb10;" alt="" coords="872,5481,1001,5508"/>
+<area shape="rect" id="node191" href="$da/d06/interfaceIG_1_1Num_1_1IVectorFunction.html" title="Vector function of a vector argument." alt="" coords="856,5583,1017,5609"/>
+<area shape="rect" id="node192" href="$da/d4f/classIG_1_1Num_1_1LinearBasis.html" title="Vector function containing lineer basis in a n&#45;dimensional vector space. Composed of n+1 functions: 1..." alt="" coords="1703,5263,1841,5289"/>
+<area shape="rect" id="node194" href="$d2/de4/classIG_1_1Num_1_1QuadraticBasis.html" title="Vector function containing quadratic basis in a n&#45;dimensional vector space. Composed of (n+1)*(n+2)/2..." alt="" coords="1693,5348,1851,5375"/>
+<area shape="rect" id="node196" href="$da/de7/classIG_1_1Num_1_1VectorFunctionBase.html" title="Base class for defining Vector functions whose evaluation is defined in bulk, and evaluation of indiv..." alt="" coords="1415,5604,1603,5631"/>
+<area shape="rect" id="node198" href="$dc/df8/classIG_1_1Num_1_1VectorFunctionBaseComponentWise.html" title="Base class for defining Vector functions whose component&#45;wise evaluation is defined directly." alt="" coords="1415,5399,1603,5441"/>
+<area shape="rect" id="node200" href="$dc/d23/classIG_1_1Num_1_1VectorFunctionBaseGeneral.html" title="Base class for VectorFunctionBase and VectorFunctionBaseComponentwise. In general,..." alt="" coords="1148,5567,1336,5609"/>
+<area shape="rect" id="node201" href="$d2/d4a/classIG_1_1Num_1_1NeuralTrainingTable.html" title="Contains Parameters that define neural network architecture and trainig limits, together with achieve..." alt="" coords="845,7033,1028,7060"/>
+<area shape="rect" id="node202" href="$d1/d56/classIG_1_1Num_1_1OptFileAnalysisServer.html" title="File analysis server. Performs direct analyses by request." alt="" coords="837,7084,1036,7111"/>
+<area shape="rect" id="node203" href="$d2/d92/classIG_1_1Num_1_1OptFileManager.html" title="Performs elementary operations for optimization and analysis servers and clients that exchange data a..." alt="" coords="855,7135,1018,7161"/>
+<area shape="rect" id="node204" href="$d7/d5e/classIG_1_1Num_1_1PenaltyEvaluator.html" title="Evaluation of penalty functions." alt="" coords="853,7788,1020,7815"/>
+<area shape="rect" id="node205" href="$db/d30/classIG_1_1Num_1_1PointCloud.html" title="Cloud of points, contains a list of containers of objects that include point coordinates." alt="" coords="865,7185,1008,7241"/>
+<area shape="rect" id="node206" href="$dd/dfc/classIG_1_1Num_1_1PointCloudSampledDataElement.html" title="Cloud of points where each point is represented by the IVector object, contains a list of containers ..." alt="" coords="845,7839,1029,7881"/>
+<area shape="rect" id="node207" href="$d2/d78/classIG_1_1Num_1_1PointCloudVector.html" title="Cloud of points where each poinr is represented by the IVector object, contains a list of containers ..." alt="" coords="851,8159,1022,8185"/>
+<area shape="rect" id="node208" href="$d7/deb/classIG_1_1Num_1_1PointContainer.html" title="Container class that contains a single point plus all the data that are necessary for searching and r..." alt="" coords="859,8260,1014,8316"/>
+<area shape="rect" id="node209" href="$de/d1a/classIG_1_1Num_1_1PointContainerSampledDataElement.html" title="Container class that contains a single vector point plus all the data that are necessary for searchin..." alt="" coords="833,9597,1040,9638"/>
+<area shape="rect" id="node210" href="$da/d17/classIG_1_1Num_1_1PointContainerVector.html" title="Container class that contains a single vector point plus all the data that are necessary for searchin..." alt="" coords="840,9751,1033,9777"/>
+<area shape="rect" id="node211" href="$d1/da1/classIG_1_1Num_1_1PointLink.html" title="Contains a pointer (link) to another point container." alt="" coords="826,7266,1047,7307"/>
+<area shape="rect" id="node212" href="$d9/dfc/classIG_1_1Num_1_1SimKosecFileManagerBase.html" title="File manager for interfacing (for optimization purposes) the simulation code of Gregor Kosec." alt="" coords="821,7956,1052,7983"/>
+<area shape="rect" id="node213" href="$df/dee/classIG_1_1Num_1_1SimKosecFileManagerConvBase.html" title="Base class for interface with simulator of G. Kosec for convection problems in a cave with obstacles." alt="" coords="1141,7949,1343,7990"/>
+<area shape="rect" id="node214" href="$d3/d50/classIG_1_1Num_1_1SimKosecFileManagerConv2.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 2 obstacles." alt="" coords="1409,7917,1610,7958"/>
+<area shape="rect" id="node215" href="$d4/d0f/classIG_1_1Num_1_1SimKosecFileManagerConv3.html" title="Interface with simulator of G. Kosec for convection problems in a cave with 3 obstacles." alt="" coords="1409,7982,1610,8023"/>
+<area shape="rect" id="node216" href="$db/d03/classIG_1_1Num_1_1VectorApproximatorBase.html" title="Base class for vector function approximators." alt="" coords="829,7636,1044,7663"/>
+<area shape="rect" id="node217" href="$da/dad/classIG_1_1Reflection_1_1DerivedTypesRegistry.html" title="Registry of type data for types derived from BaseType ." alt="" coords="833,5938,1041,5979"/>
+<area shape="rect" id="node109" href="$d0/da7/classIG_1_1App_1_1ApplicationIgShellBase.html" title="Application class for the IGLib&#39;s shell application." alt="" coords="1410,5979,1609,6005"/>
+<area shape="rect" id="node110" href="$d1/ddf/classIG_1_1Lib_1_1AppTest.html" title=" " alt="" coords="1455,6029,1563,6056"/>
+<area shape="rect" id="node121" href="$d6/d7c/classIG_1_1Lib_1_1LoadableScriptInterpreterBase.html" title="Interpreter that can install commands from dynamically loaded (compiled) scripts and run them...." alt="" coords="1125,4132,1359,4159"/>
+<area shape="rect" id="node126" href="$df/d39/classIG_1_1Lib_1_1CommandLineApplicationInterpreter_1_1InterpreterPipeClient.html" title="Client to the interpreter pipe server (classes derived from InterpreterPipeServer)." alt="" coords="1933,6414,2140,6455"/>
+<area shape="rect" id="node132" href="$da/d87/classIG_1_1Lib_1_1CommandLineApplicationInterpreter_1_1InterpreterPipeServer.html" title="Command&#45;line interpreter&#39;s server that creates a named pipe, listens on its input stream for client r..." alt="" coords="1933,6681,2140,6722"/>
+<area shape="rect" id="node148" href="$d4/d27/classIG_1_1Lib_1_1WaitFileEventLatenceBase.html" title="Base class for classes that impelement methods that block until a file or directory is created or del..." alt="" coords="1664,4427,1880,4453"/>
+<area shape="rect" id="node137" href="$d2/ddf/classIG_1_1Lib_1_1WaitFileEvent.html" title="Concrete class derived from WaitFileEventBase. It does not have a meaningful unblocking condition (it..." alt="" coords="1702,4536,1842,4563"/>
+<area shape="rect" id="node138" href="$d9/d46/classIG_1_1Lib_1_1WaitDirectoryCreation.html" title="Blocking execution of the current thread until the specified directory begins to exist." alt="" coords="1943,4587,2130,4613"/>
+<area shape="rect" id="node139" href="$d3/da5/classIG_1_1Lib_1_1WaitDirectoryRemoval.html" title="Blocking execution of the current thread until the specified directory ceases to exist." alt="" coords="1943,4637,2131,4664"/>
+<area shape="rect" id="node140" href="$d1/d1e/classIG_1_1Lib_1_1WaitFileCreation.html" title="Blocking execution of the current thread until the specified file begins to exist." alt="" coords="1959,4485,2115,4512"/>
+<area shape="rect" id="node141" href="$d6/de8/classIG_1_1Lib_1_1WaitFileRemoval.html" title="Blocking execution of the current thread until the specified file ceases to exist." alt="" coords="1958,4536,2115,4563"/>
+<area shape="rect" id="node143" href="$d5/d05/classIG_1_1Lib_1_1WaitDirectoryCreationByProxy.html" title="Implements blocking until the specified directory is created (becomes existent). Directory is specifi..." alt="" coords="1943,4819,2130,4861"/>
+<area shape="rect" id="node144" href="$d4/d92/classIG_1_1Lib_1_1WaitDirectoryRemovalByProxy.html" title="Implements blocking until the specified directory is deleted (becomes nonexistent)...." alt="" coords="1943,4885,2131,4926"/>
+<area shape="rect" id="node145" href="$db/dbb/classIG_1_1Lib_1_1WaitFileCreationByProxy.html" title="Implements blocking until the specified file is created (becomes existent). File is specified in cons..." alt="" coords="1951,4689,2123,4730"/>
+<area shape="rect" id="node146" href="$d2/d43/classIG_1_1Lib_1_1WaitFileRemovalByProxy.html" title="Implements blocking until the specified file is deleted (becomes nonexistent). File is specified in c..." alt="" coords="1950,4754,2123,4795"/>
+<area shape="rect" id="node149" href="$d9/d6b/classIG_1_1Lib_1_1WaitDirectoryCreationLatence.html" title="Implements blocking until the specified directory is created (becomes existent). Directory is specifi..." alt="" coords="1943,4354,2130,4395"/>
+<area shape="rect" id="node150" href="$d2/dcb/classIG_1_1Lib_1_1WaitDirectoryRemovalLatence.html" title="Implements blocking until the specified directory is deleted (becomes nonexistent)...." alt="" coords="1943,4419,2131,4461"/>
+<area shape="rect" id="node151" href="$d1/de2/classIG_1_1Lib_1_1WaitFileCreationLatence.html" title="Implements blocking until the specified file is created (becomes existent). File is specified in cons..." alt="" coords="1935,4252,2138,4279"/>
+<area shape="rect" id="node152" href="$d2/d57/classIG_1_1Lib_1_1WaitFileRemovalLatence.html" title="Implements blocking until the specified file is deleted (becomes nonexistent). File is specified in c..." alt="" coords="1935,4303,2138,4329"/>
+<area shape="rect" id="node156" href="$d6/d4c/classIG_1_1Lib_1_1ModuleTest.html" title=" " alt="" coords="1179,6055,1305,6081"/>
+<area shape="rect" id="node167" href="$db/dde/classIG_1_1Lib_1_1SerializationDtoTypedBase.html" title=" " alt="" coords="1416,6866,1603,6907"/>
+<area shape="rect" id="node170" href="$df/d82/classIG_1_1Lib_1_1SettingsReaderAppConfig.html" title="Provides functionality for retrieving settings from various sources such as application settings file..." alt="" coords="1156,8109,1328,8150"/>
+<area shape="rect" id="node173" href="$da/d93/classIG_1_1Num_1_1SampledDataCsv.html" title="Base class for CSV (comma separated files) representation, importer and exporter of sampled data and ..." alt="" coords="1157,3980,1327,4007"/>
+<area shape="rect" id="node175" href="$de/d55/classIG_1_1Neural_1_1MappingApproximationFileManager.html" title="File manager for mapping file client and server." alt="" coords="1136,4842,1348,4883"/>
+<area shape="rect" id="node188" href="$dd/d0e/classIG_1_1Num_1_1NeuralApproximatorAforgeFake.html" title=" " alt="" coords="1417,7654,1601,7695"/>
+<area shape="rect" id="node190" href="$dc/dc7/classIG_1_1Num_1_1OptimizerBase.html" title=" " alt="" coords="1164,5212,1320,5239"/>
+<area shape="rect" id="node197" href="$dc/d48/classIG_1_1Num_1_1VectorFunctionExamples_1_1RosenrockAndCircle.html" title="Example &#45; 2 component vector function of 2 variables. The first component is the Rosenbrock function ..." alt="" coords="1662,5553,1882,5594"/>
+<area shape="rect" id="node199" href="$db/db9/classIG_1_1Num_1_1VectorFunctionFromScalar.html" title=" " alt="" coords="1678,5429,1866,5470"/>
+<area shape="rect" id="node193" href="$d9/d57/classIG_1_1Num_1_1LinearBasisSafer.html" title="The same as LinearBasis, just that it has more meaningful error reporting (but is therefore slower)." alt="" coords="1953,5263,2121,5289"/>
+<area shape="rect" id="node195" href="$d6/d46/classIG_1_1Num_1_1QuadraticBasisSafer.html" title="The same as QuadraticBasis, just that it has more meaningful exceptions." alt="" coords="1942,5348,2131,5375"/>
+<area shape="rect" id="node218" href="$d8/d86/interfaceIG_1_1Num_1_1IMatrix.html" title="Generic Matrix interface." alt="" coords="5,3177,192,3218"/>
+<area shape="rect" id="node219" href="$d4/d1d/classIG_1_1Num_1_1Matrix.html" title="Real matrix class. Some operations are performed by the MathNet.Numerics.LinearAlgebra...." alt="" coords="571,3209,678,3236"/>
+<area shape="rect" id="node220" href="$da/d2e/classIG_1_1Num_1_1Matrix3d.html" title="Matrix in a 3 dimensional space." alt="" coords="565,3159,685,3185"/>
+<area shape="rect" id="node221" href="$d9/db9/classIG_1_1Num_1_1MatrixBase.html" title="Base class for matrices." alt="" coords="278,3159,414,3185"/>
+<area shape="rect" id="node222" href="$d9/d4e/classIG_1_1Lib_1_1InterpreterBase.html" title=" " alt="" coords="501,9043,748,9085"/>
+<area shape="rect" id="node223" href="$d5/dd6/interfaceIG_1_1Lib_1_1IObjectStore.html" title="Object store. Objects of the specified type can be stored here for later reuse (efficiency improvemen..." alt="" coords="543,3777,706,3804"/>
+<area shape="rect" id="node224" href="$dc/d2c/interfaceIG_1_1Num_1_1IPenaltyEvaluator.html" title="Classes that evaluates penalty terms corresponding to a specific penalty function." alt="" coords="539,7784,710,7811"/>
+<area shape="rect" id="node225" href="$df/d22/interfaceIG_1_1Num_1_1IPointContainer.html" title="Basic interface for point container classes." alt="" coords="545,8267,704,8309"/>
+<area shape="rect" id="node226" href="$df/d22/interfaceIG_1_1Num_1_1IPointContainer.html" title=" " alt="" coords="545,9817,704,9858"/>
+<area shape="rect" id="node227" href="$df/d22/interfaceIG_1_1Num_1_1IPointContainer.html" title=" " alt="" coords="539,9670,711,9711"/>
+<area shape="rect" id="node228" href="$db/d0e/interfaceIG_1_1Num_1_1IRealFunction.html" title="Interface for real functions." alt="" coords="24,1704,173,1731"/>
+<area shape="rect" id="node229" href="$da/d11/interfaceIG_1_1Num_1_1IRealFunctionOneParametric.html" title="Parameterized real&#45;valued functions of single variable." alt="" coords="507,1747,743,1773"/>
+<area shape="rect" id="node230" href="$d0/d78/classIG_1_1Num_1_1RealFunctionOneParametric.html" title="Base class for one parametric families of real&#45;valued functions of single variable...." alt="" coords="820,1848,1053,1875"/>
+<area shape="rect" id="node231" href="$d1/dfb/interfaceIG_1_1Num_1_1IRealFunctionParametric.html" title="Parameterized real&#45;valued functions of single variable." alt="" coords="240,1831,452,1857"/>
+<area shape="rect" id="node232" href="$d2/d3f/classIG_1_1Num_1_1RealFunctionParametric.html" title="Base class for parameterized real&#45;valued functions of single variable. Parameters that completely def..." alt="" coords="832,1899,1041,1925"/>
+<area shape="rect" id="node233" href="$d1/d20/classIG_1_1Num_1_1RealFunctionParametricBase.html" title="Base class for parameterized real&#45;valued functions of single variable. Parameters that completely def..." alt="" coords="505,1848,744,1875"/>
+<area shape="rect" id="node234" href="$d7/d8a/interfaceIG_1_1Num_1_1IRealFunctionPenalty.html" title="Interface that must be satisfied by penalty functions. Penalty functions have small values where argu..." alt="" coords="249,1437,443,1464"/>
+<area shape="rect" id="node235" href="$d6/d30/classIG_1_1Num_1_1RealFunctionBase.html" title="Base class for real functions of real variable." alt="" coords="258,1780,434,1807"/>
+<area shape="rect" id="node236" href="$d5/d7a/interfaceIG_1_1Lib_1_1IRegisterable.html" title=" " alt="" coords="557,8774,692,8815"/>
+<area shape="rect" id="node237" href="$d5/d7a/interfaceIG_1_1Lib_1_1IRegisterable.html" title=" " alt="" coords="531,9109,718,9150"/>
+<area shape="rect" id="node238" href="$d5/d7a/interfaceIG_1_1Lib_1_1IRegisterable.html" title=" " alt="" coords="848,2437,1025,2478"/>
+<area shape="rect" id="node239" href="$de/d0d/interfaceIG_1_1Lib_1_1IReporterBase.html" title="Interface from which all reporters inherit." alt="" coords="275,9331,417,9357"/>
+<area shape="rect" id="node240" href="$d1/ddb/interfaceIG_1_1Lib_1_1IReporterTextLogger.html" title="Reporters that utilize logging messages to files. IReporterTextLogger typically outputs (to a file) m..." alt="" coords="537,9255,713,9281"/>
+<area shape="rect" id="node241" href="$d2/d8e/interfaceIG_1_1Lib_1_1IReporterTextWriter.html" title="Reporters that utilize writing messages to files. Messages are typically formatted as multi&#45;line mess..." alt="" coords="539,9305,711,9332"/>
+<area shape="rect" id="node242" href="$d0/d0e/interfaceIG_1_1Lib_1_1IReporterTrace.html" title="Reporters that utilize system&#39;s trace utility." alt="" coords="553,9356,697,9383"/>
+<area shape="rect" id="node243" href="$d6/d7c/interfaceIG_1_1Num_1_1IResponseEvaluatorVectorSimple.html" title="Interface for simulators and other systems (used e.g. for optimization) that can calculate vector res..." alt="" coords="533,8013,717,8054"/>
+<area shape="rect" id="node244" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title="Generic base class for Data Transfer Objects (DTO). This class is used as template for producing conc..." alt="" coords="547,7325,702,7366"/>
+<area shape="rect" id="node245" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title=" " alt="" coords="547,9523,702,9565"/>
+<area shape="rect" id="node246" href="$d8/d1e/interfaceIG_1_1Lib_1_1ISerializationDto.html" title=" " alt="" coords="859,6866,1014,6907"/>
+<area shape="rect" id="node247" href="$d9/df4/interfaceIG_1_1Lib_1_1ISettingsRreader.html" title="Interface for settings readers, which read pairs key/vvalue from various files or configuration serve..." alt="" coords="547,8100,703,8127"/>
+<area shape="rect" id="node248" href="$d3/d24/interfaceIG_1_1Num_1_1IVector.html" title="Generic Vector interface" alt="" coords="27,3437,170,3464"/>
+<area shape="rect" id="node249" href="$d0/d5a/classIG_1_1Num_1_1VectorBase.html" title="Base class for real vectors." alt="" coords="277,3412,415,3439"/>
+<area shape="rect" id="node250" href="$dc/d13/interfaceIG_1_1Num_1_1IVectorApproximator.html" title="Interface for vector function approximators." alt="" coords="531,7687,719,7713"/>
+<area shape="rect" id="node251" href="$d1/d9a/classIG_1_1Num_1_1LinearSolverBase.html" title=" " alt="" coords="851,5161,1022,5188"/>
+<area shape="rect" id="node252" href="$d3/d64/classIG_1_1Num_1_1ParallelJobContainerGen.html" title=" " alt="" coords="515,2875,735,2931"/>
+<area shape="rect" id="node253" title=" " alt="" coords="536,2211,713,2237"/>
+<area shape="rect" id="node254" href="$db/d30/classIG_1_1Num_1_1PointCloud.html" title=" " alt="" coords="517,7835,733,7891"/>
+<area shape="rect" id="node255" href="$db/d30/classIG_1_1Num_1_1PointCloud.html" title=" " alt="" coords="548,8151,701,8207"/>
+<area shape="rect" id="node256" href="$d7/deb/classIG_1_1Num_1_1PointContainer.html" title=" " alt="" coords="517,9589,733,9645"/>
+<area shape="rect" id="node257" href="$d7/deb/classIG_1_1Num_1_1PointContainer.html" title=" " alt="" coords="544,9736,705,9792"/>
+<area shape="rect" id="node258" href="$db/da4/classIG_1_1Script_1_1ScriptAppBase.html" title="Partial class definition containing tests of CSV utilities." alt="" coords="543,8723,707,8749"/>
+<area shape="rect" id="node259" href="$db/dde/classIG_1_1Lib_1_1SerializationDtoTypedBase.html" title=" " alt="" coords="503,9458,747,9499"/>
+</map>

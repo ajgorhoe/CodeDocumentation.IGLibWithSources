@@ -1,0 +1,5 @@
+<map id="IG.Lib.ILoadableScriptC" name="IG.Lib.ILoadableScriptC">
+<area shape="rect" id="node1" title="Controllable loadable script, provides more control over loading and execution." alt="" coords="9,80,168,107"/>
+<area shape="rect" id="node3" href="$d7/d31/classIG_1_1Lib_1_1LoadableScriptOptShellBaseControllable.html" title="Controllable version of LoadableScriptOptBase, implements the ILoadableScriptC interface." alt="" coords="5,155,172,196"/>
+<area shape="rect" id="node2" href="$d7/d66/interfaceIG_1_1Lib_1_1ILoadableScript.html" title="Interface for classes that can be dynamically loadeded from scripts and run, which provides functiona..." alt="" coords="33,5,144,32"/>
+</map>

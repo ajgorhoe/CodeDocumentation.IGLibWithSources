@@ -1,0 +1,10 @@
+<map id="IG.Num.IFunc3d" name="IG.Num.IFunc3d">
+<area shape="rect" id="node1" title="Represents scalar functions of 2 variables." alt="" coords="5,131,121,157"/>
+<area shape="rect" id="node2" href="$d4/d29/classIG_1_1Num_1_1Func3dBase.html" title="Base class for scalar functions of 3 variables (base for implementation of IFunc3d interface)." alt="" coords="169,131,312,157"/>
+<area shape="rect" id="node3" href="$de/d93/classIG_1_1Num_1_1Func3dBaseNoGradient.html" title="Base class for scalar functions of 3 variables (implementations of the IFunc3d interface)...." alt="" coords="361,29,569,56"/>
+<area shape="rect" id="node4" href="$d0/d67/classIG_1_1Num_1_1Func3dBaseNoHessian.html" title="Base class for scalar functions of 3 variables (implementations of the IFunc3d interface)...." alt="" coords="362,80,569,107"/>
+<area shape="rect" id="node5" href="$db/dd6/classIG_1_1Num_1_1Func3dExamples_1_1Func3dXYZ.html" title="Function f(x, y, z) = x * y * z." alt="" coords="619,29,860,56"/>
+<area shape="rect" id="node6" href="$d9/d2a/classIG_1_1Num_1_1Func3dVectorFormBase.html" title="Base class for scalar functions of 3 variables (base for implementation of IFunc3d interface)." alt="" coords="360,232,571,259"/>
+<area shape="rect" id="node7" href="$d4/d33/classIG_1_1Num_1_1Func3dLinear.html" title="Linear (Affine) function of 3 variables." alt="" coords="665,207,813,233"/>
+<area shape="rect" id="node8" href="$dc/dd8/classIG_1_1Num_1_1Func3dQuadratic.html" title="Quadratic function of 3 variables." alt="" coords="655,257,824,284"/>
+</map>

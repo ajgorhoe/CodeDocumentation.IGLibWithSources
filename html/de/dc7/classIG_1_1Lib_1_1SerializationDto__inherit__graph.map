@@ -1,0 +1,5 @@
+<map id="IG.Lib.SerializationDto" name="IG.Lib.SerializationDto">
+<area shape="rect" id="node1" title="Auxiliary base class for DTOs, contains some static methods. Provided for simplicity,..." alt="" coords="33,5,183,32"/>
+<area shape="rect" id="node2" href="$d7/dd8/classIG_1_1Lib_1_1SerializationDtoBase.html" title="Generic base class for Data Transfer Objects (DTO). This class is used as template for producing conc..." alt="" coords="17,80,199,121"/>
+<area shape="rect" id="node3" href="$db/dde/classIG_1_1Lib_1_1SerializationDtoTypedBase.html" title=" " alt="" coords="5,169,211,211"/>
+</map>

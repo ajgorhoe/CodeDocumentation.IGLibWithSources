@@ -1,0 +1,5 @@
+<map id="IG.Lib.ApplicationCommandlineBase" name="IG.Lib.ApplicationCommandlineBase">
+<area shape="rect" id="node1" title="Base class for main application classes that have the main method of the application based on command..." alt="" coords="5,46,239,73"/>
+<area shape="rect" id="node2" href="$d7/d7b/classIG_1_1Lib_1_1LoadableScriptBase_1_1StoredScriptSettings.html" title="In methods of this class you will find all the settings that apply to this script." alt="" coords="287,5,467,47"/>
+<area shape="rect" id="node3" href="$d4/d93/classIG_1_1Lib_1_1ShellApplication.html" title="Class encapsulating a command&#45;line shell. Used as embedded shell application that can be installed on..." alt="" coords="300,71,453,112"/>
+</map>

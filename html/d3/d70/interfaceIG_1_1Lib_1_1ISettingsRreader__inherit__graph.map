@@ -1,0 +1,5 @@
+<map id="IG.Lib.ISettingsRreader" name="IG.Lib.ISettingsRreader">
+<area shape="rect" id="node1" title="Interface for settings readers, which read pairs key/vvalue from various files or configuration serve..." alt="" coords="17,5,173,32"/>
+<area shape="rect" id="node2" href="$dc/d76/classIG_1_1Lib_1_1SettingsReaderBase.html" title=" " alt="" coords="5,80,184,107"/>
+<area shape="rect" id="node3" href="$df/d82/classIG_1_1Lib_1_1SettingsReaderAppConfig.html" title="Provides functionality for retrieving settings from various sources such as application settings file..." alt="" coords="9,155,181,196"/>
+</map>
